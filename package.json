@@ -1,0 +1,26 @@
+{
+  "name": "my-module",
+  "version": "1.0.0",
+  "description": "module for npm",
+  "main": "index.js",
+  "dependencies": {
+    "user": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyril2063/my-module.git"
+  },
+  "keywords": [
+    "module"
+  ],
+  "author": "cyril2063",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyril2063/my-module/issues"
+  },
+  "homepage": "https://github.com/cyril2063/my-module#readme"
+}
