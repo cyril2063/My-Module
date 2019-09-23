@@ -1,5 +1,13 @@
 # my-module
+
 module for npm
 
 # 2019-09-23
-# add .gitignore
+
+# someting
+
+# add .gitignore later
+
+# new line
+
+# new line
